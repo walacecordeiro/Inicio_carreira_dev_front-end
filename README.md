@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto-1 </h1>
+<h1 align="center"> Inicio sa carreira dev front-end </h1>
 
 <p align="center">
 Projeto 1 do curso explorer da Rocketseat.
